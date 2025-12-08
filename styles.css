@@ -5,18 +5,18 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, lch(76.97% 79.91 143.86) 0%, #e8e836 100%);
     line-height: 1.6;
     color: #333;
 }
 
 /* Encabezados */
-h1 { color: #2c3e50; text-align: center; margin-bottom: 10px; }
-h2 { color: #3498db; border-bottom: 2px solid #3498db; padding-bottom: 5px; }
-h3 { color: #e74c3c; margin-top: 30px; }
+h1 { color: #2083e6; text-align: center; margin-bottom: 10px; }
+h2 { color: #3d08ec; border-bottom: 2px solid #3498db; padding-bottom: 5px; }
+h3 { color: #ea8d14; margin-top: 30px; }
 
 /* Texto enfatizado */
-strong { color: #27ae60; }
+strong { color: #e66617; }
 em { color: #9b59b6; font-style: italic; }
 
 /* Tabla */
