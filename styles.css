@@ -5,15 +5,15 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
-    background: linear-gradient(135deg, lch(76.97% 79.91 143.86) 0%, #e8e836 100%);
+    background: linear-gradient(135deg, lch(38.88% 27.71 277.24) 0%, #60c5ec 100%);
     line-height: 1.6;
-    color: #333;
+    color: #000000;
 }
 
 /* Encabezados */
-h1 { color: #2083e6; text-align: center; margin-bottom: 10px; }
-h2 { color: #3d08ec; border-bottom: 2px solid #3498db; padding-bottom: 5px; }
-h3 { color: #ea8d14; margin-top: 30px; }
+h1 { color: #ffffff; text-align: center; margin-bottom: 10px; }
+h2 { color: #b9f015; border-bottom: 2px solid #56aae2; padding-bottom: 5px; }
+h3 { color: #f0211e; margin-top: 30px; }
 
 /* Texto enfatizado */
 strong { color: #e66617; }
